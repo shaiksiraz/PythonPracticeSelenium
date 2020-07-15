@@ -1,0 +1,40 @@
+DEBUG:scriptLogs.log:this is debug logger
+INFO:scriptLogs.log: this is info logger
+WARNING:scriptLogs.log: this is warning logger
+ERROR:scriptLogs.log:this is exception logger
+NoneType: None
+ERROR:scriptLogs.log:this is error logger
+CRITICAL:scriptLogs.log: **** this is critical logger *********
+07-14-20:DEBUG:this is debug logger
+07-14-20:INFO: this is info logger
+07-14-20:WARNING: this is warning logger
+07-14-20:ERROR:this is exception logger
+NoneType: None
+07-14-20:ERROR:this is error logger
+07-14-20:CRITICAL: **** this is critical logger *********
+07:14:20:DEBUG:this is debug logger
+07:14:20:INFO: this is info logger
+07:14:20:WARNING: this is warning logger
+07:14:20:ERROR:this is exception logger
+NoneType: None
+07:14:20:ERROR:this is error logger
+07:14:20:CRITICAL: **** this is critical logger *********
+07:14:20:DEBUG:this is debug logger
+07:14:20:INFO: this is info logger
+07:14:20:WARNING: this is warning logger
+07:14:20:ERROR:this is error logger
+07:14:20:CRITICAL: **** this is critical logger *********
+07:15:20:DEBUG:this is debug logger
+07:15:20:INFO: this is info logger
+07:15:20:WARNING: this is warning logger
+07:15:20:ERROR:this is exception logger
+NoneType: None
+07:15:20:ERROR:this is error logger
+07:15:20:CRITICAL: **** this is critical logger *********
+07/15/20:DEBUG:this is debug logger
+07/15/20:INFO: this is info logger
+07/15/20:WARNING: this is warning logger
+07/15/20:ERROR:this is exception logger
+NoneType: None
+07/15/20:ERROR:this is error logger
+07/15/20:CRITICAL: **** this is critical logger *********
